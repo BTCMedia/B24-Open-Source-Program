@@ -5,7 +5,38 @@ Open Source Developer Program for the Bitcoin 2022 Conference
 
 Open source contributors spend their time building software that benefits the whole bitcoin ecosystem. Bitcoin 2022 is proud to offer a ticket grant program to give contributors of the following projects free tickets to this years conference.
 
+- BTCPay Server
+- Bisq
+- Bitcoin Beach Wallet
 - Bitcoin Core
+- Bitcoin Dev Kit
+- Blixt Wallet
+- Blue Wallet
+- Braiins OS
+- Breez Wallet
+- C-lightning
+- Eclair
+- Electrs
+- Electrum
+- Immortan
+- Joinmarket
+- LDK
+- LNBits
+- LND
+- Mempool
+- Mercury Wallet
+- Muun Wallet
+- Nix-Bitcoin
+- Nodl
+- RaspiBlitz
+- RoninDojo
+- Samourai Wallet
+- Seedsigner
+- Sparrow Wallet
+- Specter Wallet
+- Tor
+- Wasabi Wallet
+- Zeus
 
 ** Must have made a commit to the project prior to October 1, 2021 to be eligible
 
