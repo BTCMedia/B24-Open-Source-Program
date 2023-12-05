@@ -7,7 +7,7 @@ Open source contributors spend their time building software that benefits the wh
 
 - Bitcoin Core
 
-** Must have made a commit to the project prior to October 1, 2024 to be eligible
+** Must have made a commit to the project prior to October 1, 2023 to be eligible
 
 1. Fill out the typeform application at https://b.tc/conference/open-source
 2. Submit an issue to this repo and explain why you are excited to attend
