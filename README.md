@@ -3,11 +3,11 @@ Open Source Developer Program for the Bitcoin 2024 and Bitcoin Amsterdam Confere
 
 ## Open Source Ticket Program
 
-Open source contributors spend their time building software that benefits the whole bitcoin ecosystem. Bitcoin 2023 is proud to offer a ticket grant program to give contributors of the following projects free tickets to this years conference.
+Open source contributors spend their time building software that benefits the whole bitcoin ecosystem. Bitcoin 2024 is proud to offer a ticket grant program to give contributors of the following projects free tickets to this years conference.
 
 - Bitcoin Core
 
-** Must have made a commit to the project prior to October 1, 2024 to be eligible
+** Must have made a commit to the project prior to October 1, 2023 to be eligible
 
 1. Fill out the typeform application at https://b.tc/conference/open-source
 2. Submit an issue to this repo and explain why you are excited to attend
