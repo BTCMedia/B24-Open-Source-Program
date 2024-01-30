@@ -9,7 +9,7 @@ Open source contributors spend their time building software that benefits the wh
 
 ** Must have made a commit to the project prior to October 1, 2024 to be eligible
 
-1. Fill out the typeform application at https://b.tc/conference/open-source
+1. Fill out the typeform application at https://b.tc/conference/2024/opensource
 2. Submit an issue to this repo and explain why you are excited to attend
 3. Over the next 30 days, we will be reviewing submissions and sending out e-tickets
 
