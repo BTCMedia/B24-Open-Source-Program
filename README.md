@@ -3,7 +3,7 @@ Open Source Developer Program for the Bitcoin 2024
 
 ## Open Source Ticket Program
 
-Open source contributors spend their time building software that benefits the whole bitcoin ecosystem. Bitcoin 2024is proud to offer a ticket grant program to give contributors of bitcoin open-source projects free tickets to this years conference.
+Open source contributors spend their time building software that benefits the whole bitcoin ecosystem. Bitcoin 2024 is proud to offer a ticket grant program to give contributors of bitcoin open-source projects free tickets to this years conference.
 
 **Must have made a commit to the project prior to June 1, 2024 to be eligible**
 
